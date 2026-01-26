@@ -4,10 +4,10 @@ Navie Bayes
 
 K-Nearest Neighbors (KNN)
 
-Support Vector Machine (SVM)
+Support Vector Machine (SVM) ✅
 
-Decision Tree
+Decision Tree ✅
 
 Random Forest
 
-XGBoost
+XGBoost ✅
