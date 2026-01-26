@@ -6,6 +6,8 @@ K-Nearest Neighbors (KNN)
 
 Support Vector Machine (SVM)
 
+Decision Tree
+
 Random Forest
 
-Decision Tree
+XGBoost
