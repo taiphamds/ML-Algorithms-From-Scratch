@@ -1,4 +1,4 @@
-Logistic Regression
+Logistic Regression ✅
 
 Navie Bayes
 
