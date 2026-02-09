@@ -2,7 +2,7 @@ Logistic Regression ✅
 
 Navie Bayes
 
-K-Nearest Neighbors (KNN)
+K-Nearest Neighbors (KNN) ✅
 
 Support Vector Machine (SVM) ✅
 
