@@ -8,6 +8,6 @@ Support Vector Machine (SVM) ✅
 
 Decision Tree ✅
 
-Random Forest
+Random Forest ✅
 
 XGBoost ✅
